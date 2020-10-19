@@ -7,7 +7,7 @@
 - 🌱 I’m currently using **NodeJS**!
 - 📫 How to reach me: **vops#0001**
 
-<h3 align=center>📫 Contact 📫</h1>
+<h2 align=center>📫 Contact 📫</h1>
   <p align=center>
     <a href="https://twitter.com/vopswtf">@vopswtf</a>
     <br>
