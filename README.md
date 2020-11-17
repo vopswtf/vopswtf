@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>👋 Hi! I'm Vops! 👋</h1>
 
-- 🔭 I’m currently working on **Mantle**
+- 🔭 I’m currently managing **Mantle**
 - 🌱 I’m currently working on **CB Cosmetics API**!
 - 📫 How to reach me: **vops#0001**
 
