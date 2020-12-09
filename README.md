@@ -3,9 +3,8 @@
 </p>
 <h1 align=center>👋 Hi! I'm Vops! 👋</h1>
 
-- 🔭 I'm managing [**Mantle**](https://discord.gg/mantle)
-- 🌱 I’m currently working on [**CB Cosmetics API**](https://github.com/ItsVops/CB-Cosmetics-API/)!
-- 📫 How to reach me: **vops#0001**
+- 🌱 I’m currently working on [**nothing lol**](#)!
+- 📫 How to reach me: **@vopswtf**
 
 <h2 align=center>📫 Contact 📫</h1>
   <p align=center>
