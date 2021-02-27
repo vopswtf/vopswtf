@@ -6,7 +6,7 @@
   <img src="https://avatars3.githubusercontent.com/u/55073114?s=200"/>
 </p>
 
-<h2 align=center>hi, i'm vops</h1>
+<h1 align=center>hi, i'm vops</h1>
   <p align=center>
     Discord: vops#0001
     </br>
