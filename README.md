@@ -5,7 +5,9 @@
 
 <h2r align=center>📫 Contact</h1>
   <p align=center>
-    Discord: 'vops#0001'
+    Discord: vops#0001
+    </br>
+    </br>
     Twitter: [Click](https://twitter.com)
   </p>
 
