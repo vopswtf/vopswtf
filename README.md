@@ -2,10 +2,6 @@
 
 <img align="center" src="https://raw.githubusercontent.com/ItsVops/ItsVops/master/top.svg"/>
 
-<p align=center>
-  <img src="https://avatars3.githubusercontent.com/u/55073114?s=200"/>
-</p>
-
 <h1 align=center>hi, i'm vops</h1>
   <p align=center>
     Discord: vops#0001
