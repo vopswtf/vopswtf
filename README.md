@@ -3,9 +3,9 @@
 <img align="center" src="https://raw.githubusercontent.com/ItsVops/ItsVops/master/top.svg"/>
 <h3 align=center>i'm vops</h3>
  <p align=center>
-    Discord: vops#0001
+    vops#0001
     </br>
-    Twitter: https://twitter.com/vopswtf 
+    <a href="https://twitter.com/vopswtf">Twitter</a>
     </br>
   </p>
 
