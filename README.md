@@ -1,7 +1,7 @@
 <!-- Credit to Kqzz for profile inspiration -->
 
 <img align="center" src="https://raw.githubusercontent.com/ItsVops/ItsVops/master/top.svg"/>
-
+<h3 align=center>i'm vops</h3>
  <p align=center>
     Discord: vops#0001
     </br>
