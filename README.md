@@ -1,24 +1,15 @@
-<!-- Credit to Kqzz for profile inspiration -->
+### __👋 Hey, I'm Vops.__ 
+I code when I'm bored.
 
-<img align="center" src="https://raw.githubusercontent.com/ItsVops/ItsVops/master/top.svg"/>
-<h3 align=center>i'm vops</h3>
- <p align=center>
-    vops#0001
-    </br>
-    <a href="https://twitter.com/vopswtf">Twitter</a>
-    </br>
-  </p>
+---
 
-<a href="https://github.com/ItsVops">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ItsVops" alt="Profile Views">
-  </p>
+<a href="https://discord.com/users/111973782612156416">
+  <img src="https://lanyard-profile-readme.vercel.app/api/111973782612156416?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ItsVops&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=3EDAFF&icon_color=ffffff" alt="vops" /></p>
+- 📱 Contact:
+  - [Twitter](https://twitter.com/vopswtf "vopswtf")
+  - [Website](https://vops.cc "vops.cc")
+  - [Steam](https://steamcommunity.com/id/itsvops/ "itsvops")
 
-<p></p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsVops&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=3EDAFF&icon_color=ffffff" alt="vops" />
-
-<img align="center" src="https://raw.githubusercontent.com/ItsVops/ItsVops/master/bottom.svg"/>
+[FBS](https://twitter.com/FBScollective "FuckBeingSad")
