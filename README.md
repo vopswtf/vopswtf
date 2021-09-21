@@ -1,5 +1,4 @@
-<img src="https://lanyard-profile-readme.vercel.app/api/111973782612156416?hideTimestamp=true&idleMessage=doing%20absolutely%20nothing." align="right" />
-👋 Hey, I'm Vops.
+__👋 Hey, I'm Vops.__
 
 Member of [FBS](https://twitter.com/FBScollective "FuckBeingSad")
 
