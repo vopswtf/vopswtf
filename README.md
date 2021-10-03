@@ -1,4 +1,4 @@
-__👋 Hey, I'm Vops.__
+# [Vops](https://vops.cc/) | ![](https://komarev.com/ghpvc/?username=ItsVops)
 
 Member of [FBS](https://twitter.com/FBScollective "FuckBeingSad")
 
