@@ -1,10 +1,9 @@
-# [Vops](https://vops.cc/) | ![](https://komarev.com/ghpvc/?username=ItsVops)
+# [Vops](https://vops.cc/) | ![](https://komarev.com/ghpvc/?username=ItsVops)![](https://hit.yhype.me/github/profile?user_id=55073114)
 
-Member of [FBS](https://twitter.com/FBScollective "FuckBeingSad")
 
 - 📱 Contact:
   - [Twitter](https://twitter.com/vopswtf "vopswtf")
   - [Website](https://vops.cc "vops.cc")
   - [Steam](https://steamcommunity.com/id/itsvops/ "itsvops")
 
-![](https://hit.yhype.me/github/profile?user_id=55073114)
+Affiliated with [FBS](https://twitter.com/FBScollective "FuckBeingSad")
