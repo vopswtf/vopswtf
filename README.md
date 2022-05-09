@@ -5,5 +5,3 @@
   - [Twitter](https://twitter.com/vopswtf "vopswtf")
   - [Website](https://vops.cc "vops.cc")
   - [Steam](https://steamcommunity.com/id/itsvops/ "itsvops")
-
-Affiliated with [FBS](https://twitter.com/FBScollective "FuckBeingSad")
